@@ -909,6 +909,10 @@ body {
   margin-bottom: 8px;
 }
 
+.form-container-comment {
+  margin-bottom: 16px;
+}
+
 .modal-form-text {
   display: flex;
   justify-content: center;
