@@ -691,7 +691,7 @@ body {
 }
 
 .text-footer {
-  max-width: 264px;
+  min-width: 264px;
 }
 
 .footer-social-list {
